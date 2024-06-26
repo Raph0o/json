@@ -1,0 +1,260 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "name": "Circuito Liberdade",
+      "description": "O Circuito Liberdade em Belo Horizonte é um complexo composto por 13 espaços culturais diversos, dentre eles: Centro Cultural Banco do Brasil, Casa FIAT de Cultura, Memorial Minas Gerais VALE, MM Gerdau - Museu das Minas e do Metal.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHfZxp03aTyRucwmiKwyNGfUi4bZUMVe6zZGuPgHD054kCkDO1no27WjrbOmeSMfbfUTuKNmF5Los7JYJp4epl86RojPH5S8hPfiCN5bP4pH5Jr-b6NLWQrdm6giNDbku63aWBH2UcvnYRRdOUENlnJZvg=w1569-h884-s-no-gm?authuser=0",
+      "location_name": "Belo Horizonte, Minas Gerais",
+      "location_coordinates": [
+        -43.9397233,
+        -19.9332786
+      ],
+      "date": "2023-11-23",
+      "location_cor": "red"
+    },
+    {
+      "id": 2,
+      "name": "Mirante das Mangabeiras",
+      "description": "Considerado área de preservação ambiental, o Mirante das Mangabeiras conta com decks de madeira e oferece aos visitantes ema linda visão panorâmica da cidade de Belo Horizonte e do Parque das Mangabeiras.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHfDK-jPlKAlzuiVg9LKhyFPRT-1kxwW1tSsasOs87IpS65N52joSkfqr7JYkQdNkMFa6LrsvxG86fCahil82pZM9FOPz5KfWySFYgzdarMSq8soRb7Yd5Cg1axEMGhNUGMPcm7d2chw4j-gk8HlnmuUPA=w1569-h884-s-no-gm?authuser=0",
+      "location_name": "Belo Horizonte, Minas Gerais",
+      "location_coordinates": [
+        -44.025818,
+        -19.976609
+      ],
+      "date": "2023-11-23",
+      "location_cor": "red"
+    },
+    {
+      "id": 3,
+      "name": "Mercados Feiras e Parques",
+      "description": "Explore a beleza verde dos parques, a diversidade das feiras e a atmosfera vibrante dos mercados em Belo Horizonte. Uma experiência única aguarda por você em cada esquina da cidade.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHeoTEmtjbgEBTFlNdDKcVgYw4mGH3IFhOhi-ka8ZcSme7AcxPlyoaM6a4AU0ikHZC4ytDidfr1zoU6Ocd8Vv2GR8GI6YSDOvh2ONdCpfwNZCWHTNi35zTCjYogCeQdXFP3BIFe34qJvii6g6aBaTvYAzg=w1569-h884-s-no-gm?authuser=0",
+      "location_name": "Belo Horizonte, Minas Gerais",
+      "location_coordinates": [
+        -44.076069,
+        -19.939135
+      ],
+      "date": "2023-11-23",
+      "location_cor": "red"
+    },
+    {
+      "id": 4,
+      "name": "Melhores Cafés e Docerias de BH",
+      "description": " Um pouco dos lugares mais deliciosos de BH. ",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHd_Jg9MLv39xL94RwWP8j51_eNrassCXOMAa5Tf5Wa-rE3I-ByCgBP-hIl3TWUSZCOr1UKe--ddoQfzMK4pknduTGTmnKt5pANM-5XO5sVLUlTFgii3rrhKA3blyAV-hVxt-17T_8H2nGGv1g-jdraqGQ=w1280-h591-s-no-gm?authuser=0",
+      "location_name": "Belo Horizonte, Minas Gerais",
+      "location_coordinates": [
+        -44.076069,
+        -19.939123
+      ],
+      "date": "2023-11-23",
+      "location_cor": "red"
+    }
+  ],
+  "fotos": [
+    {
+      "id": 11,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfZxp03aTyRucwmiKwyNGfUi4bZUMVe6zZGuPgHD054kCkDO1no27WjrbOmeSMfbfUTuKNmF5Los7JYJp4epl86RojPH5S8hPfiCN5bP4pH5Jr-b6NLWQrdm6giNDbku63aWBH2UcvnYRRdOUENlnJZvg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Igreja São José",
+      "albumId": 1
+    },
+    {
+      "id": 12,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHc5qaaorU4ryIKRYM6bhPFBG_IgMAJXLhtXSWRoqIXPXdoAzrKmnk9LYmPAurm5LuAfzZCcMUoxhwKPH3YXj2VXyYlQAHu6e910gxR7DAZmrFhAfH8vruOzFcQYXWqnb8pJ4Zn3SkFx6jHwjcu8vhf0KA=w1569-h884-s-no-gm?authuser=0",
+      "description": "Memorial Minas Gerais VALE",
+      "albumId": 1
+    },
+    {
+      "id": 13,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfqCIsByMwR-5jd40GxjUf6P_mD9OE72azx_NfuLlPsVmbuYRSoNt86EySoXTRBhJSJvaDJo56phuIY13fi4_YOIQYv2pwlIgAD25LKpEA85UU1RWG7Xnabxw_7DsvEC6WPtZNg6HekRIgynUamwLewnA=w1569-h884-s-no-gm?authuser=0",
+      "description": "Palácio da Libertade",
+      "albumId": 1
+    },
+    {
+      "id": 14,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHf-GR4JtVpRqleWA5KrCa0SoYuu19mR-URj7LV4BThZsPI4OH-ELlJFiwg1LPVtOkByvl3_FRGEmTE7qnBZBbBywn0QowgsS7siuE94wQf-oMtN-wBrajeNyLKhVqC3xTlGbbb3dQwMNfb9lH8imcIy6Q=w1569-h884-s-no-gm?authuser=0",
+      "description": "Edifício Niemeyer",
+      "albumId": 1
+    },
+    {
+      "id": 15,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHcNmpkPN8RjB_ExjbS9jhse3ybvb4zdUmn6hxDtprvV_D3GWBE4z_pYW6GY-e8--U9CVAclo8fqOvisukFa_Rlp77NwLkUp83ejCQWcDQSe93j0nHk2bsffeDYTc4BGNIj72ZCzXqWLBGolu_IY0GZd6w=w1569-h884-s-no-gm?authuser=0",
+      "description": "Circuito Liberdade",
+      "albumId": 1
+    },
+    {
+      "id": 16,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfgQkCki-5i5vjDn1n1OmuBW68s-LRxM7RU-7XxqcDTnLe8RS5FiFcwUhO4GDUAGrXHn0T8wkAkpXsjQaSV3dF7GJmuytKqDcC9R5mgK0WW5lDeocmVFSZLhkqhXI8WRb4diI7TTiGSygfXlRe-Uw1hpQ=w1569-h884-s-no-gm?authuser=0",
+      "description": "Palacio da liberdade",
+      "albumId": 1
+    },
+    {
+      "id": 17,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHchz0sCEdJMswXibZBgwJnam4VFPGcUqIBytoPY8_pz-pF2bREZJVW4jVwLsQ_TWjmvQ7cERqTz8-1tOeD5o5ERXdVO16jmylS57K2DF7mwOE1rwrE0qjEJ4oKKOBoElm3utIxZ5mg6jOL9ciamJ1ZNLg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Salão Palacio da liberdade ",
+      "albumId": 1
+    },
+    {
+      "id": 21,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfDK-jPlKAlzuiVg9LKhyFPRT-1kxwW1tSsasOs87IpS65N52joSkfqr7JYkQdNkMFa6LrsvxG86fCahil82pZM9FOPz5KfWySFYgzdarMSq8soRb7Yd5Cg1axEMGhNUGMPcm7d2chw4j-gk8HlnmuUPA=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mirante das Mangabeiras",
+      "albumId": 2
+    },
+    {
+      "id": 22,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHc4idsGxJqlULz6H6EIh8KZ4nA6iyEiq6dBTV6TYP1uO7OrOFpWdlQMOA-TCbaiPDuzZLXviOc4kKi97n8KZaUNT7n3iPtbDcnFwJWeJOI9mZaH8Ljt_fSFQkjrz542iuvpSjp6eX2YLc2BXlqIDwsnNg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Praça do Papa",
+      "albumId": 2
+    },
+    {
+      "id": 23,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHdq5oNF06am-ibzllwpKJo7qbpCi1vs4gRbIr_m3IMEx4uDBDLpanC8IvUmk3B__3T0tNnAkLY0cOZDmD7afDcYWXO1o2YheYt3i0H7IHIBlSkb2SpoVBpugw23El4KnlZkFKdTKM9seFknyPLUpHSWPA=w1569-h884-s-no-gm?authuser=0",
+      "description": "Parque Municipal",
+      "albumId": 2
+    },
+    {
+      "id": 24,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHf3hnGDzT8m09pOrW2VRjvuTmOHuOvf1ekzhn5jej_z6lt9JRY0NA4gwKPVHVX3jBeZ49qffNgYFkz4XqshbgXQUdMUJkGQJvHVBRDu4pf2N1LgxDsEAJRgHSIvN1xeIZ7wdaBzc7LsxywgYZMvbJGZUw=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mirante do Parque Professor Amílcar Vianna Martins",
+      "albumId": 2
+    },
+    {
+      "id": 25,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfSg7rhFu57iY35Bg41kiYNfR8vp854LpDmuwfCJaw6VQ8axHjrELTDBy_eZg1j9JmXHiQMaJVFxX0mMPo1sFCcV4eV3yVUutweClFhDKbCxe8e1aShyXlaDkCoCRk3ydC7Uwcfh0xki-SjSx6Dv1gbkg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mirante do Parque Professor Amílcar Vianna Martins",
+      "albumId": 2
+    },
+    {
+      "id": 26,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHer7RipuusM9VRkQieSbEnD2QT2jFAlLfUHm3c82vVTgNBeuQmq1nFTZeyajxeRii4QGKSbW_k3-3N0zXHvAgLNPp9NWiU3amxgf9jgjkewbuPgrWhD3t1ArDbdQEZiGfhQN6Apo5LDLTKHd-tQG2jBEA=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mirante rua Sapucaí",
+      "albumId": 2
+    },
+    {
+      "id": 31,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHeoTEmtjbgEBTFlNdDKcVgYw4mGH3IFhOhi-ka8ZcSme7AcxPlyoaM6a4AU0ikHZC4ytDidfr1zoU6Ocd8Vv2GR8GI6YSDOvh2ONdCpfwNZCWHTNi35zTCjYogCeQdXFP3BIFe34qJvii6g6aBaTvYAzg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Praça da Estação",
+      "albumId": 3
+    },
+    {
+      "id": 32,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfjW1uaNtD5SoWWSXvzUg6h8fOVFqpVT1EkUI50jX4di3shmdzZywsZ7CAQGlKPPK-Eq_lfKtgLqKRrmnwVbQRK3u6RoHC6q2ykYn9eryr-R3WGSKFdwKndSg09jMvqe1OfA1zyAmFkDQUK-k41rEXICw=w1569-h884-s-no-gm?authuser=0",
+      "description": "Inhotim",
+      "albumId": 3
+    },
+    {
+      "id": 33,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHdHTL5-9JQP5HOnA1DYzlGDR7nVRmfGtVCjw3WQlJc4tdZCIg1s5yp6YSClOyg83mEdgeyETRhYReK6OII1rMfAFyZv-U7W9yZcJgJsLvxLa4vs4fGppBT4M1srEDVeYjX7ztesfTMdbfd5irsWDnzsLQ=w1569-h884-s-no-gm?authuser=0",
+      "description": "Parque Municipal",
+      "albumId": 3
+    },
+    {
+      "id": 34,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHd-sIvk3XipKblh5Xwjc6AuXBTSQYO35xuFYnxrTdd5-SUkuJpeKqKLoNhKa3o0i-5NeHs9QOHxQIHbpUJeCXCO09FUqBnoXsTiEtGINMEl3iUJ9Ab948s_eR-Ertgy4KThSvEuoaya-DUyNr2KUeqPIQ=w1569-h884-s-no-gm?authuser=0",
+      "description": "Praça do Papa",
+      "albumId": 3
+    },
+    {
+      "id": 35,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfpPknjWLet9t7ac6f9Dx-9xtPBeCwKbwtbQgU9qhbufl9GstZu6A7SXQGGJL98stj8nwZXd4iWrCiQF-YNJQCn1lfukSTKXMJebdrq5JC-6fdg_sHWRKeh8Jl5Ji0vg1T4-w1kpO1ekOoHndRjMzO-gw=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mercado Novo",
+      "albumId": 3
+    },
+    {
+      "id": 36,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfkQlKaBcTEvV9DohQaGwQ6Nqf_90lYRzfiZAZW1H_4XW5EPCmsD0eZ4r_hZmAZzB3haI0RD8VT4LlhHNZNbzIUd77Yv24Iennmo3Bo9N6Q5lXezO-8Vnfw2oCAlNGWfwBRsRr73Eb6E2glxN7tn3v_Gw=w1569-h884-s-no-gm?authuser=0",
+      "description": "Feira Hippie",
+      "albumId": 3
+    },
+    {
+      "id": 37,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHdnX6tmreV6Dn59umqyyApcyPu4HxfVuXsN-W2LIp0beOVmN7KI9qZc9-v789ugONgVO4WnhTfxpCP6NdUWV4OLA3aMOpvCBg2mjCBx86frH8C0em2vtN9LaSKC2ntsRQfM3dvoHmjdL8HIsH1cMyo0Rg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Jardim Zoológico e Jardim Botânico",
+      "albumId": 3
+    },
+    {
+      "id": 38,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHc47RC8utex3VhTHlYZImmPsD-MAoFjPFe6-SqT7JvmHme59uXAsU9wWuHbxPJZCD12Yuc8Pw85a0eXnFwA9NLCWuKzLN_L7bZbV-6lDvR4zs0FxLBEV84kI9lrTxu7z22y-bte5YqfuIBXyF_WhK4IWg=w1569-h884-s-no-gm?authuser=0",
+      "description": "Mercado Central",
+      "albumId": 3
+    },
+    {
+      "id": 41,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHd_Jg9MLv39xL94RwWP8j51_eNrassCXOMAa5Tf5Wa-rE3I-ByCgBP-hIl3TWUSZCOr1UKe--ddoQfzMK4pknduTGTmnKt5pANM-5XO5sVLUlTFgii3rrhKA3blyAV-hVxt-17T_8H2nGGv1g-jdraqGQ=w1280-h591-s-no-gm?authuser=0",
+      "description": "Espetacular Doceria",
+      "albumId": 4
+    },
+    {
+      "id": 42,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHcV0FynigRTHHb4njyzNxcIYOc66EhIMMUHk81SV9QG2G7INGYJ5zjuVmkURTN78wKHGGfhw3vaxpHjVPSv18cDzUlVa2_7Ym6wJ-nxGuapDVeMfUyQX9FW2KeldQ4To-nlDLs5fzwGNqDyrNQFO5YMpA=w550-h412-s-no-gm?authuser=0",
+      "description": "Casa Bonomi",
+      "albumId": 4
+    },
+    {
+      "id": 43,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHd9J1X0-GAcpUdFYZklsbu7rrC8VhergsYL2x_C1zsXxHbA880BRJpy7Bzox7h6rfKAAerkCMsNF2x51m3k9mTffuVuc0XZCEyujE0RKYsgmm-VxU2dNInxNoTvLwDcWp5nb3tj_Z6po_STLOw-4mpJ_A=w250-h141-s-no-gm?authuser=0",
+      "description": "DI MOLTO Gelateria Artigianale",
+      "albumId": 4
+    },
+    {
+      "id": 44,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHfWfaNz5VJvmMd-bC_PdYKsnTElx8d3k_Z2xiuM9_F6olEjMCKT8BEUyen8_Se0jJtZ13oGXdM65iRw7b4EBO0Qrq_d7MtyPK_9STh0qcRZyNDeQDV8xbbkPUt4VeJycKR4jMHwkZ1Xrp6xM6Y89rVO5g=w550-h413-s-no-gm?authuser=0",
+      "description": "Café Com Letras Liberdade",
+      "albumId": 4
+    },
+    {
+      "id": 45,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHc_M9W-M2L9WMAF2zqUi4_rXWQkYfePtQEeb2Stzuwz87DrbDybGjsmZX-m2VS9jDgTlG9FpNu-Qo3J8wA2zUOdtu3DPUbbstd8LD3LTK7r13GJL8RWMwSWqcWTb0ohnHOxE9FjOfryfOs2Zo1arbttBg=w550-h413-s-no-gm?authuser=0",
+      "description": "Alessa Gelato & Caffè",
+      "albumId": 4
+    },
+    {
+      "id": 46,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHen839LN19PeFn4XUdJ03VDm66WUigkVA_PGD9JrvufRXy5sRkkngjItZeHmX8g1cYtyn-PWh3Gbz20h2qlAC2p85Xx_kZ5ry-cVxgHqKfA--z7hjaS9l9a_22zbrrbRjBYNPTNyJVyieXlA_0wZB8rfg=w338-h450-s-no-gm?authuser=0",
+      "description": "Amoret",
+      "albumId": 4
+    },
+    {
+      "id": 47,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHduLxqepn9IjzSiPXauMBChxVbXl8XoJasElA8pEe3vEoffNfrrZwxsMmL9hMg0CdguVLWTCScv_FZpj6sjfsSD6mFTYFbyf1ugOZCSBEOTjlDTAECWULmoxVoSMb5WFiCkY9P9AbHqAPQg0YeH_DPKtA=w473-h450-s-no-gm?authuser=0",
+      "description": "Croasonho",
+      "albumId": 4
+    },
+    {
+      "id": 48,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHe0qz0ACXLSG0pRz7klAc9ODgAX3mrwXrDC6T3U_tFFFWpzqHnpqdo9VPq2KvL-eYydN4CEvFKTcL3YAP6yMM3relcOaf-XeC79DWYBSsxYTjSCw0O7hxtDlbSt0f2e8sDMY8SJu3Sc5mpEGvxm7eAc3A=w550-h412-s-no-gm?authuser=0",
+      "description": "Momo Confeitaria",
+      "albumId": 4
+    },
+    {
+      "id": 49,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHcoMVjf73AJYUi4QeAKS6OqBFCznbe-_g7Gddb7XCxY7zlDpZXHkveOa7Z1zzPos4Tbexu2_GOicDp43KxQPGuAjDa6qvyjjAd8CVCRE5x5uOsj-veMPFOnxBdh1a30zrMP_ZxgQxvzjMOJKcs_7QnRxQ=w550-h374-s-no-gm?authuser=0",
+      "description": "Laroche Pâtisserie Crêperie",
+      "albumId": 4
+    }
+  ],
+  "destaques": [
+    {
+      "albumId": "1",
+      "coverAlbum": "https://lh3.googleusercontent.com/pw/ADCreHfZxp03aTyRucwmiKwyNGfUi4bZUMVe6zZGuPgHD054kCkDO1no27WjrbOmeSMfbfUTuKNmF5Los7JYJp4epl86RojPH5S8hPfiCN5bP4pH5Jr-b6NLWQrdm6giNDbku63aWBH2UcvnYRRdOUENlnJZvg=w1569-h884-s-no-gm?authuser=0",
+      "id": 1
+    },
+    {
+      "albumId": "4",
+      "coverAlbum": "https://lh3.googleusercontent.com/pw/ADCreHd_Jg9MLv39xL94RwWP8j51_eNrassCXOMAa5Tf5Wa-rE3I-ByCgBP-hIl3TWUSZCOr1UKe--ddoQfzMK4pknduTGTmnKt5pANM-5XO5sVLUlTFgii3rrhKA3blyAV-hVxt-17T_8H2nGGv1g-jdraqGQ=w1280-h591-s-no-gm?authuser=0",
+      "id": 4
+    },
+    {
+      "albumId": "2",
+      "coverAlbum": "https://lh3.googleusercontent.com/pw/ADCreHfDK-jPlKAlzuiVg9LKhyFPRT-1kxwW1tSsasOs87IpS65N52joSkfqr7JYkQdNkMFa6LrsvxG86fCahil82pZM9FOPz5KfWySFYgzdarMSq8soRb7Yd5Cg1axEMGhNUGMPcm7d2chw4j-gk8HlnmuUPA=w1569-h884-s-no-gm?authuser=0",
+      "id": 5
+    },
+    {
+      "albumId": "3",
+      "coverAlbum": "https://lh3.googleusercontent.com/pw/ADCreHeoTEmtjbgEBTFlNdDKcVgYw4mGH3IFhOhi-ka8ZcSme7AcxPlyoaM6a4AU0ikHZC4ytDidfr1zoU6Ocd8Vv2GR8GI6YSDOvh2ONdCpfwNZCWHTNi35zTCjYogCeQdXFP3BIFe34qJvii6g6aBaTvYAzg=w1569-h884-s-no-gm?authuser=0",
+      "id": 6
+    }
+  ]
+}
